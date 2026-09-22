@@ -1,2 +1,4 @@
 # ENGG1101
-Hello
+## My goal
+
+I want to use GitHub for my engineering projects.
